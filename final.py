@@ -16,7 +16,7 @@ def main():
     page_bg_img = '''
     <style>
     .stApp {
-        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvpo3Q9QOOHVw81zgqfdFd_-pGiL7csBciXw&usqp=CAU');
+        background-image: url('');
         background-size: cover;
     }
     </style>
